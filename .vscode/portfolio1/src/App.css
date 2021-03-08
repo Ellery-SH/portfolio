@@ -1,0 +1,157 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+  background-color: black;
+}
+
+.unordered-list {
+  margin-top: 4%;
+  padding: 0;
+  list-style-type: none;
+  margin-left: 30%;
+  align-items: center;
+
+}
+
+.list-item {
+  vertical-align: middle;
+  justify-content: space-between;
+  padding: 8px 0;
+
+}
+
+.menuheader {
+  padding: 5%;
+  margin-left: 16%;
+  color: white;
+}
+
+.menubutton {
+  width: 130px;
+}
+.databutton{
+  width: 130px;
+  margin-left: 30%;
+
+}
+.indata label{
+  padding: 6%;
+}
+
+
+.container {
+  color: white;
+  margin-left: 35%;
+  margin-right: 20%;
+  margin-top: 15%;
+  width: 420px;
+  height: 420px;
+  background: linear-gradient(to bottom, #0c3d69 16%, #116c97 95%);
+  border-radius: 8px;
+  padding:5%;
+ 
+
+}
+.ending h2{
+   padding: 5%;
+   margin-left: 16%;
+   color: white;
+   size:20px;
+
+}
+
+
+.title {
+  text-align: center;
+  color: white;
+  margin-top: 15%;
+}
+
+
+.info {
+  margin-left: 45%;
+  color: white;
+  margin-top: 15%;
+}
+
+.Stopwatch-display{
+    margin-left: 32%;
+    color: white;
+    margin-top: 15%;
+
+}
+
+.buttonbutton {
+  margin:1%;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+   position: relative;
+   top: 10%;
+   left: 18%;
+}
+
+.button2button {
+  margin: 1%;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  top: 10%;
+  left: 35%;
+}
+
+
+.completeReps {
+
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+
+
+
