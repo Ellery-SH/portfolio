@@ -2,7 +2,7 @@
   "name": "week7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ellery-SH.github.io/portfolio/.vscode/portfolio1",
+  "homepage": "https://Ellery-SH.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
