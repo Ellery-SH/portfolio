@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Portfolio 
+This is an update to our exercise app
+Counts reps of exercises and times workouts
+
+### Features 
+You can see how many total reps of every exercise you did 
+You can time certain workouts
+You can see the amount of reps you completed for certain exercises
+
+### Changes
+I added some CSS to make the app more visually interesting 
+I added a new exercise (swimming)
+I added a feature where users can type in the completed reps for each exercise and it will tell them their total reps overall 
+
+You can find it here:
+https://ellery-sh.github.io/portfolio/Portfolio1/index.html
+
